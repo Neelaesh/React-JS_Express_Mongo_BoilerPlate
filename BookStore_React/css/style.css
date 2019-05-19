@@ -1,0 +1,39 @@
+.footer {
+    position: fixed;
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    height:50px;
+    margin-bottom:0px;
+  }
+
+a {
+    color : blue
+  }
+
+a:visited {
+    color: cornflowerblue;
+    cursor:'pointer';
+  }
+  
+a.active {
+    color: red;
+  }
+
+body {
+    margin-bottom:50px;
+  }
+
+.loading {
+    background: rgba(0,0,0,.2) url('/css/loader.gif') no-repeat 50% center;
+    width:100%;
+    height:100%;
+    position:fixed;
+    top:0;
+    left:0;
+    z-index:999;
+    display:none;
+}

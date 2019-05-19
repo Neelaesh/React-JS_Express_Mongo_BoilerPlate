@@ -1,0 +1,30 @@
+{"_id":{"$oid":"5c7d93db5daab4282c0bea9d"},"genreId":"1","genre":"Action and Adventure"}
+{"_id":{"$oid":"5c7d946a5daab4282c0bea9e"},"genreId":"2","genre":"Art"}
+{"_id":{"$oid":"5c7d97f95daab4282c0bea9f"},"genreId":"3","genre":"Auto Biography"}
+{"_id":{"$oid":"5c7d982d5daab4282c0beaa0"},"genreId":"4","genre":"Biography"}
+{"_id":{"$oid":"5c7d98555daab4282c0beaa1"},"genreId":"5","genre":"Comics"}
+{"_id":{"$oid":"5c7d98a55daab4282c0beaa2"},"genreId":"6","genre":"Cook Books"}
+{"_id":{"$oid":"5c7d98fa5daab4282c0beaa3"},"genreId":"7","genre":"Diaries"}
+{"_id":{"$oid":"5c7d991b5daab4282c0beaa4"},"genreId":"8","genre":"Drama"}
+{"_id":{"$oid":"5c7d99405daab4282c0beaa5"},"genreId":"9","genre":"Encyclopedias"}
+{"_id":{"$oid":"5c7d99575daab4282c0beaa6"},"genreId":"10","genre":"Fantasy"}
+{"_id":{"$oid":"5c7d99745daab4282c0beaa7"},"genreId":"11","genre":"Guide"}
+{"_id":{"$oid":"5c7d99965daab4282c0beaa8"},"genreId":"12","genre":"Health"}
+{"_id":{"$oid":"5c7d99b45daab4282c0beaa9"},"genreId":"13","genre":"History"}
+{"_id":{"$oid":"5c7d99d95daab4282c0beaaa"},"genreId":"14","genre":"Horror"}
+{"_id":{"$oid":"5c7d99f75daab4282c0beaab"},"genreId":"15","genre":"Humour"}
+{"_id":{"$oid":"5c7d9a175daab4282c0beaac"},"genreId":"16","genre":"Journals"}
+{"_id":{"$oid":"5c7d9a335daab4282c0beaad"},"genreId":"17","genre":"Life Lesson"}
+{"_id":{"$oid":"5c7d9a535daab4282c0beaae"},"genreId":"18","genre":"Math"}
+{"_id":{"$oid":"5c7d9a725daab4282c0beaaf"},"genreId":"19","genre":"Mystery"}
+{"_id":{"$oid":"5c7d9aa15daab4282c0beab0"},"genreId":"20","genre":"Poetry"}
+{"_id":{"$oid":"5c7d9aba5daab4282c0beab1"},"genreId":"21","genre":"Religion, Spirituality & New Age"}
+{"_id":{"$oid":"5c7d9adb5daab4282c0beab2"},"genreId":"22","genre":"Romance"}
+{"_id":{"$oid":"5c7d9aff5daab4282c0beab3"},"genreId":"23","genre":"Satire"}
+{"_id":{"$oid":"5c7d9b1b5daab4282c0beab4"},"genreId":"24","genre":"Science"}
+{"_id":{"$oid":"5c7d9b575daab4282c0beab5"},"genreId":"25","genre":"Science Fiction"}
+{"_id":{"$oid":"5c7d9b705daab4282c0beab6"},"genreId":"26","genre":"Self Help"}
+{"_id":{"$oid":"5c7d9b915daab4282c0beab7"},"genreId":"27","genre":"Series"}
+{"_id":{"$oid":"5c7d9bc55daab4282c0beab8"},"genreId":"28","genre":"Travel"}
+{"_id":{"$oid":"5c7d9be25daab4282c0beab9"},"genreId":"29","genre":"Trilogy"}
+{"_id":{"$oid":"5c7d9c145daab4282c0beaba"},"genreId":"30","genre":"Thriller"}
